@@ -7,7 +7,21 @@ The project covers the complete data science pipeline — from data cleaning and
 <img width="885" height="689" alt="image" src="https://github.com/user-attachments/assets/733672cf-7707-4339-a775-adb6a5251b1f" />
 
 
+🎯 Problem Statement
 
-![Uploading image.png…]()
+The real estate market in Bengaluru is highly dynamic, with house prices influenced by multiple factors such as location, total area, number of bedrooms (BHK), and market demand.
+However, raw housing data is often inconsistent, incomplete, and difficult to interpret.
+
+This project aims to:
+
+Clean and standardize real estate data
+
+Analyze pricing trends and key influencing factors
+
+Build regression models to predict house prices
+
+Present insights through an interactive Power BI dashboard
+
+🚀 Objectives
 
 
