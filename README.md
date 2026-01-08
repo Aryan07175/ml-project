@@ -209,8 +209,7 @@ Integrate real-time housing data
 Add location-based maps in Power BI
 
 
-Deploy model using Flask/FastAPI
-
+Deploy model using Flask/FastAPi
 
 Build a web app for live price prediction
 
