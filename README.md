@@ -13,9 +13,7 @@ The real estate market in Bengaluru is highly dynamic, with house prices influen
 However, raw housing data is often inconsistent, incomplete, and difficult to interpret.
 
 This project aims to:
-
-Clean and standardize real estate data
-
+Clean and standardize real estate data.
 Analyze pricing trends and key influencing factors
 
 Build regression models to predict house prices
